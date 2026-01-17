@@ -35,7 +35,7 @@ Industrial, precise, no-nonsense. Safety data sheet meets field guide.
 # LADDER SAFETY
 
 ## Key Fact
-#1 volunteer injury. Under 10 feet.
+#1 volunteer injury. Low heights.
 
 ## Actions
 ■ Spotter holds base

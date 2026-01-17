@@ -30,7 +30,7 @@ Documentary, evidence-based. Facts carry weight.
 # LADDER FALLS: THE DATA
 
 ## Key Stat
-#1 injury cause. Under 10 feet.
+#1 injury cause. Low heights.
 
 ## What Goes Wrong
 | Cause | Result |

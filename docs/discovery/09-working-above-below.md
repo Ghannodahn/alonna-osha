@@ -35,7 +35,7 @@ A drop zone is an area where people don't work or walk because things might fall
 
 ### 3. Communication Before Action
 
-**Dropping something**: "COMING DOWN" or "HEADACHE" (traditional construction warning)
+**Dropping something**: "HEADS UP" or "COMING DOWN" (industry practice—use whichever your site prefers)
 **Moving into an area**: "BELOW!" to alert those above that someone's entering the zone
 **Starting overhead work**: Tell ground crew before you begin
 
@@ -127,7 +127,7 @@ Hard hats aren't always required everywhere on a volunteer site, but they're man
 > "So when people are working at different heights, you've got two concerns: things falling on people, and people falling on people. The fix is coordination. Know who's above you. Know who's below you. Communicate before anything moves. Drop zone = don't go there."
 
 ### Real Consequences
-> "A 2-pound hammer falling 10 feet hits with serious force. People have been killed by dropped tools. If you're at height, nothing leaves your hand without a warning. If you're below active work, wear your hard hat. Not paranoia - physics."
+> "A 2-pound hammer falling 10 feet hits with serious force. Struck-by fatalities from falling objects—including tools dropped from scaffolding—are one of OSHA's 'Fatal Four' construction hazards. If you're at height, nothing leaves your hand without a warning. If you're below active work, wear your hard hat. Not paranoia—physics."
 
 ### Quick Hits
 > "Above/below safety:

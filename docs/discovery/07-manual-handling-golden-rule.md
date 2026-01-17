@@ -61,7 +61,7 @@ The Golden Rule doesn't replace technique - it works alongside it:
 > "So all the lifting rules - bend your knees, keep it close, don't twist - they're good. But here's the thing: none of that matters if the load is too heavy for you. The rule underneath all the rules? If it feels too heavy, it is. That's permission to ask for help."
 
 **Real Consequences**:
-> "Back injuries can take months to heal. Some never fully recover. The moment something feels too heavy, you have a choice: ask for help now, or deal with pain later. There's no 'powering through' when it comes to your spine."
+> "While most back injuries heal within weeks, severe injuries can take months—and some result in permanent disability. The moment something feels too heavy, you have a choice: ask for help now, or deal with pain later. There's no 'powering through' when it comes to your spine."
 
 **Quick Hits**:
 > "Lifting: If it feels too heavy, it is. Get help. No glory in back injuries."
@@ -72,7 +72,7 @@ The Golden Rule doesn't replace technique - it works alongside it:
 
 | Scenario | Golden Rule Application |
 |----------|------------------------|
-| Sheet of plywood | Heavy and awkward - two-person job by default |
+| Sheet of plywood | Heavy (60-70 lbs for 3/4") and awkward—per OSHA guidance, loads over 50 lbs should use two or more people |
 | Box of screws | Lift test: pick up one end. Too heavy? Get help. |
 | Lumber carry | Length matters - one person lift, two person carry |
 | End of day fatigue | What you could lift at 9am might be too heavy at 4pm |
@@ -105,7 +105,7 @@ The Golden Rule doesn't replace technique - it works alongside it:
 
 The Golden Rule pairs with:
 
-- **Mechanical assistance**: Dollies, carts, rope lifts reduce manual load
+- **Mechanical assistance**: Dollies, carts, rope lifts reduce manual load (consistent with OSHA ergonomics guidance recommending engineering controls)
 - **Breaking loads down**: Heavy bag can become two lighter bags
 - **Team lifts**: Two-person protocol for anything borderline
 - **Rest breaks**: Fatigue increases perceived and actual difficulty

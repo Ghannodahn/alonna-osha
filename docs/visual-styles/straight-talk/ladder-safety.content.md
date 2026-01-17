@@ -1,7 +1,7 @@
 # LADDER SAFETY
 
 ## Key Fact
-Falls from ladders: a leading cause of construction injuries. Not from roofs - from regular ladders, usually under 10 feet.
+Falls from ladders: a leading cause of construction injuries. Not from roofs - from regular ladders, often at surprisingly low heights.
 
 ## Critical Actions
 

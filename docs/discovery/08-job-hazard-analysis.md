@@ -27,11 +27,11 @@ Assess the severity:
 - Worse? (crushing, electrical, falls from height)
 
 ### 3. "How do I prevent that?"
-Identify controls:
-- PPE (glasses, gloves, hard hat)
-- Technique (right tool, secure the work)
+Identify controls (when possible, eliminating the hazard or changing how you do the task is better than relying on PPE alone):
 - Environment (clear the area, secure the ladder)
+- Technique (right tool, secure the work)
 - Communication (let others know what you're doing)
+- PPE (glasses, gloves, hard hat)
 
 ---
 

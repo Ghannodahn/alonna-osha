@@ -31,7 +31,7 @@ Collaborative, exploratory. Marker diagrams and flowcharts.
 # Why Do People Fall?
 
 ## Let's Think
-Most falls: under 10 feet. What's wrong?
+Most falls: low heights. What's wrong?
 
 ## Cause → Effect → Fix
 

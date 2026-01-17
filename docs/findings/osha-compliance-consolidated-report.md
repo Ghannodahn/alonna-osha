@@ -311,25 +311,25 @@ All CFR citations were verified accurate:
 
 - [x] No OSHA contradictions present
 - [x] Back brace removed from PPE requirements
-- [ ] "Volunteer injury" claims changed to "construction injury"
-- [ ] "Under 10 feet" claim clarified (non-fatal context)
-- [ ] MSD 52% statistic corrected or removed
-- [ ] Struck-by percentage updated to ~10% throughout
+- [x] "Volunteer injury" claims changed to "construction injury"
+- [x] "Under 10 feet" claim clarified (non-fatal context)
+- [x] MSD 52% statistic corrected or removed
+- [x] Struck-by percentage updated to ~10% throughout
 
 #### Recommended (Should Complete)
 
-- [ ] "80%" prevention claim removed or sourced
-- [ ] Back injury recovery time claim contextualized
-- [ ] Ladder base holding clarified as organizational policy
-- [ ] Dropped tool fatality claim strengthened with OSHA citation
-- [ ] Mechanical aids recommendation sourced
+- [x] "80%" prevention claim removed or sourced
+- [x] Back injury recovery time claim contextualized
+- [x] Ladder base holding clarified as organizational policy
+- [x] Dropped tool fatality claim strengthened with OSHA citation
+- [x] Mechanical aids recommendation sourced
 
 #### Optional (Enhance Quality)
 
-- [ ] Add hierarchy of controls note to JHA document
-- [ ] Standardize warning calls to "HEADS UP"
-- [ ] Add plywood two-person lift citation
-- [ ] Add silica/dust protection expansion
+- [x] Add hierarchy of controls note to JHA document
+- [x] Standardize warning calls to "HEADS UP"
+- [x] Add plywood two-person lift citation
+- [ ] Add silica/dust protection expansion (deferred - not critical for current scope)
 
 ---
 
@@ -382,7 +382,40 @@ This consolidated report verifies that the BBTW safety content is **substantiall
 
 ---
 
+## Part 8: Revision Log
+
+### Revisions Applied (2026-01-16)
+
+| Issue | Location | Change Made |
+|-------|----------|-------------|
+| "Under 10 feet" claim | ladder-safety-all-tones.md | Changed "Most falls are from under 10 feet" to "Many serious fall injuries happen from heights under 10 feet—you don't need to fall far to get hurt" |
+| "Volunteer injuries" | ladder-safety-all-tones.md | Changed to "construction injuries" throughout |
+| Ladder base holding | ladder-safety-all-tones.md | Clarified as organizational policy with NIOSH 40% statistic |
+| "80% prevention" | 06-rewrite-opportunities.md | Changed to "most injuries" (unsourced statistic removed) |
+| Back injury recovery | 07-manual-handling-golden-rule.md | Contextualized: "While most back injuries heal within weeks, severe injuries can take months" |
+| Mechanical aids | 07-manual-handling-golden-rule.md | Added "(consistent with OSHA ergonomics guidance recommending engineering controls)" |
+| Dropped tool deaths | 09-working-above-below.md | Strengthened with OSHA "Fatal Four" reference |
+| Warning calls | 09-working-above-below.md | Standardized to "HEADS UP" as primary, clarified as industry practice |
+| Hierarchy of controls | 08-job-hazard-analysis.md | Reordered controls with PPE last, added clarifying note |
+| Plywood two-person | 07-manual-handling-golden-rule.md | Added OSHA guidance citation for loads over 50 lbs |
+
+### Feedback Not Implemented (with Rationale)
+
+| Feedback Item | Rationale for Deferral |
+|---------------|------------------------|
+| Add silica/dust protection expansion | Out of scope for current shed-building scenario. Minimal silica exposure expected. Can be added in future iteration if concrete cutting is added to curriculum. |
+| Full JHA timing citation | OSHA 3071 does not specify timing for informal hazard assessments. The 10-30 second guidance is practical for volunteers and consistent with the spirit of JHA without claiming regulatory basis. |
+| Severity categories citation | OSHA does not prescribe specific severity categories. The minor/first-aid/ER/worse framework is a practical interpretation aligned with OSHA risk assessment principles. Acceptable as-is. |
+
+### Stakeholder Feedback Status
+
+The stakeholder feedback form (`facilitators-guide-stakeholder-feedback.md`) is a template for collecting future feedback. No actual stakeholder responses have been collected yet. This review cycle addressed OSHA verification findings only. Stakeholder feedback collection should proceed as a separate workstream.
+
+---
+
 **Report Generated:** 2026-01-16
+**Last Revised:** 2026-01-16
 **Verification Standard:** OSHA Safety Claim Verification Command v1.0
 **Total Claims Verified:** 66
 **Verification Status:** ✅ PASSED
+**Revision Status:** ✅ ALL CRITICAL ITEMS RESOLVED

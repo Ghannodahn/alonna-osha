@@ -4,9 +4,9 @@
 
 **Key facts**:
 - Falls from ladders are a leading cause of construction injuries
-- Most falls are from under 10 feet - not dramatic heights
+- Many serious fall injuries happen from heights under 10 feet—you don't need to fall far to get hurt
 - 3-point contact prevents most falls
-- Having someone hold the base prevents most tip-overs
+- Our policy: someone holds the base. 40% of ladder injuries are caused by the base sliding out—having someone there prevents this (NIOSH)
 - The top step isn't for standing
 
 ---
@@ -15,11 +15,11 @@
 
 **Ladder Safety - Straight Talk**
 
-Ladders. Here's the deal: falls from ladders send more volunteers to the ER than anything else on our sites. Not falls from roofs - falls from regular ladders, usually under 10 feet.
+Ladders. Here's the deal: falls from ladders send more people to the ER than almost anything else on construction sites. Not falls from roofs—falls from regular ladders, often under 10 feet. You don't need to fall far to get hurt.
 
 Three things keep you safe:
 
-1. **Have someone hold the base.** Every time. No exceptions.
+1. **Have someone hold the base.** Our policy: every time. 40% of ladder injuries are from the base sliding out.
 2. **Keep three points on the ladder** - two hands and a foot, or two feet and a hand. Always.
 3. **Stay centered.** If your belt buckle goes past the rails, you're overreaching. Come down and move the ladder.
 
@@ -51,11 +51,11 @@ And the top step - I know it's tempting when you're *almost* tall enough. But it
 
 Okay, so ladders - why do we make such a big deal about them? They're just... ladders, right?
 
-Here's the thing: ladder falls are a leading cause of construction injuries. And it's almost never dramatic stuff like falling off a roof. It's stepping off a regular ladder from 6 feet up and landing wrong. Breaking a wrist. Tweaking a back. Stuff that could have been avoided.
+Here's the thing: ladder falls are a leading cause of construction injuries. And it's almost never dramatic stuff like falling off a roof. It's stepping off a regular ladder from 6 feet up and landing wrong. Breaking a wrist. Tweaking a back. You don't need to fall far to get hurt—and most of it could have been avoided.
 
 So let's break it down. Why do people fall off ladders?
 
-1. **The ladder kicks out at the base.** Solution: Someone holds it. Simple.
+1. **The ladder kicks out at the base.** 40% of ladder injuries are from this (NIOSH). Solution: Someone holds it—that's our policy.
 2. **They reach too far and lose balance.** Solution: If your belt buckle goes past the side rails, stop. Come down. Move the ladder.
 3. **They're moving too fast with too few handholds.** Solution: Three points of contact, always. Two hands one foot, or two feet one hand.
 
@@ -73,11 +73,11 @@ Falls from ladders kill construction workers every year. Not falls from building
 
 And the ones that don't kill can still end your day badly. Broken wrists from catching yourself. Twisted ankles from an awkward landing. Back injuries that take months to heal.
 
-Most of these falls are from under 10 feet. That's not even that high. But it's high enough.
+Many serious fall injuries happen from under 10 feet. That's not even that high. But it's high enough to break something.
 
 Here's how you don't become a statistic:
 
-**Have someone hold the base.** This isn't paranoia - it's the single most effective thing you can do. Ladders don't fall at the top; they kick out at the bottom.
+**Have someone hold the base.** This isn't paranoia—40% of ladder injuries are from the base sliding out (NIOSH). Ladders don't fall at the top; they kick out at the bottom. Our policy is someone holds it, always.
 
 **Keep 3 points on the ladder.** Always. Two hands and a foot, or two feet and a hand. The second you're down to two points, you're one lean away from losing balance.
 
@@ -93,12 +93,12 @@ You came here to help build something. Going home injured doesn't help anyone. T
 
 30 seconds. Ladder safety:
 
-1. **Someone holds the base.** Always.
+1. **Someone holds the base.** Our policy—40% of injuries are from base sliding out.
 2. **3 points on the ladder.** Two hands + foot, or two feet + hand.
 3. **Belt buckle between the rails.** Past the rails = overreaching = move the ladder.
 4. **Top step is for holding, not standing.**
 
-Ladder falls are a leading cause of construction injuries. These four things prevent almost all of them.
+Ladder falls are a leading cause of construction injuries. These four things prevent most of them.
 
 ---
 

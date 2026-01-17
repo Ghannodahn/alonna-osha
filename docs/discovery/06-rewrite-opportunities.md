@@ -56,7 +56,7 @@ The Building Beyond the Walls source material uses standard safety-training lang
 
 **Example rewrite approach**:
 
-> "Three things will prevent 80% of injuries: wear your PPE (glasses, gloves, hard hat), lift with your legs, and watch where you're going. Everything else builds on these."
+> "Three things will prevent most injuries: wear your PPE (glasses, gloves, hard hat), lift with your legs, and watch where you're going. Everything else builds on these."
 
 ---
 

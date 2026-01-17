@@ -43,6 +43,6 @@ Ultra-efficient, point-of-use reference. Scannable in seconds.
 | Skip top | Grab point |
 
 ## Fact
-#1 injury. Under 10 feet.
+#1 injury. Low heights.
 
 Unsure? → ASK

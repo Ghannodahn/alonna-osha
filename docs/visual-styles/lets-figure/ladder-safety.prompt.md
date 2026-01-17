@@ -48,7 +48,7 @@ Collaborative, exploratory, educational. Like a productive training session on a
 # Why Do People Fall Off Ladders?
 
 ## Let's Think Through This
-Most ladder falls happen from under 10 feet. That's not dramatic. So what's going wrong?
+Most ladder falls happen at surprisingly low heights. That's not dramatic. So what's going wrong?
 
 ## Cause → Effect → Fix Diagram
 

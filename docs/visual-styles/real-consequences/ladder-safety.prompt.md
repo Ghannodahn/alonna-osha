@@ -51,7 +51,7 @@ Documentary, evidence-based, serious but not fear-mongering. Like a safety revie
 ## Key Statistic
 A leading cause of construction injuries
 
-Most falls occur from under 10 feet. That's not dramatic. It's enough.
+Most falls occur at surprisingly low heights. That's not dramatic. It's enough.
 
 ## What Goes Wrong (Cause → Consequence)
 

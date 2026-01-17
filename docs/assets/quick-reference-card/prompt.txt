@@ -1,0 +1,44 @@
+Two-sided pocket reference card for construction safety facilitators. Flat graphic design, print-ready.
+
+FRONT SIDE:
+Title: "When Someone's Struggling"
+Subtitle: "What to say (and what to skip)"
+
+Five rows of phrase comparisons:
+- X "Don't fall" → Check "Three points on the ladder"
+- X "Calm down" → Check "I'm right here"
+- X "It's not a big deal" → Check "That's a reasonable concern"
+- X "Just do it" → Check "One step at a time"
+- X "Be careful" → Check "Watch the nail by your foot"
+
+Below that, the RACE framework box:
+Title: "RACE — 10 seconds when someone freezes"
+- R = Recognize their state (white knuckles, not moving)
+- A = Acknowledge briefly ("Ladders feel wobbly at first.")
+- C = Concrete action — one specific move ("Right hand to the next rung.")
+- E = Empower ("Good. You've got it.")
+
+BACK SIDE:
+Title: "15-Minute Session Flow"
+
+Vertical timeline with 7 stops:
+- 0-1 min: OPENING — "I've done this a while..." Today: 4 points, 15 minutes
+- 1-3 min: LIFTING & CARRYING — Get close, test weight, ask for help
+- 3-5 min: WORKING AT HEIGHTS — 4:1 ratio, 3-point contact, spotter
+- 5-7 min: AWARENESS — "Heads up!", Know your neighbors
+- 7-9 min: TOOLS — PPE on, Guards stay on, "Feels wrong? Stop and ask"
+- 9-12 min: DEMO — You do it, They try, Group confirms
+- 12-15 min: CLOSE — "If unsure, ask." Point to site lead.
+
+Footer: "Your job: prime awareness. Details come at task."
+
+STYLE:
+- Clean flat design, no gradients, no shadows, no 3D effects
+- Cream/off-white background (#FDF8F3)
+- Black text (#1A1A1A)
+- Safety orange accent (#E85D04) for headers, checkmarks, RACE letters, and timeline dots
+- Red-orange (#C1121F) for X marks on ineffective phrases
+- Sans-serif typeface similar to Inter, DM Sans, or Helvetica
+- Card dimensions: 4x6 inch index card proportion
+- High contrast for outdoor/jobsite readability
+- Both sides visible in a single image, side by side

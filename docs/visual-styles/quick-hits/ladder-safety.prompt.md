@@ -65,7 +65,7 @@ Ultra-efficient, point-of-use reference, maximum compression. Like a laminated p
 | Skip top step | Nothing to grab |
 
 ## Key Fact
-#1 injury. Under 10 feet. Not worth rushing.
+#1 injury. Low heights. Not worth rushing.
 
 ## Footer
 Unsure? → ASK
